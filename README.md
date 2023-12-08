@@ -1,4 +1,6 @@
-# test_datetime_module
+# test_modules
+- [Getting Started](#getting-started)
+- - [Getting Started](#getting-started)
 
 ## datetime Module Functions and Methods
 
@@ -21,3 +23,20 @@
 9. **time.hour, time.minute, time.second**: Attributes of a time object.
 
 10. **datetime.year, datetime.month, datetime.day, datetime.hour, datetime.minute, datetime.second**: Attributes of a datetime object.
+
+## time Module Functions and Methods
+
+1. **time.time()**: Returns the current time in seconds since the epoch (January 1, 1970).
+
+2. **time.localtime([secs])**: Returns the local time in a struct_time format or a time.struct_time object.
+
+3. **time.strftime(format[, t])**: Returns a string representing a time according to the format string.
+
+4. **time.sleep(secs)**: Suspends execution for the given number of seconds.
+
+5. **time.gmtime([secs])**: Converts a time expressed in seconds since the epoch to a struct_time in UTC.
+
+6. **time.daylight**: Returns nonzero if a DST timezone is defined.
+
+7. **time.clock()**: Returns the current processor time as a floating-point number expressed in seconds.
+
