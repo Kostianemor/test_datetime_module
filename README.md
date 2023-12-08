@@ -1,6 +1,6 @@
 # test_modules
-- [Getting Started](#getting-started)
-- - [Getting Started](#getting-started)
+- [datetime](#datetime Module Functions and Methods)
+- [time](#getting-started)
 
 ## datetime Module Functions and Methods
 
