@@ -1,6 +1,6 @@
 # test_modules
 - [datetime](#datetime-Module-Functions-and-Methods)
-- [time](#getting-started)
+- [time](#time-Module-Functions-and-Methods)
 
 ## datetime Module Functions and Methods
 
